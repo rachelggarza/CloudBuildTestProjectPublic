@@ -566,7 +566,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Github \nTest-Branch Branch"
+  m_Text: "Github \nMaster Branch"
 --- !u!222 &1359836535
 CanvasRenderer:
   m_ObjectHideFlags: 0
