@@ -1,0 +1,2111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 1829
+    y: 135
+    width: 1275
+    height: 988
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 5}
+  - {fileID: 4}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1275
+    height: 988
+  m_MinSize: {x: 950, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1275
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 968
+    width: 1275
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 6}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1275
+    height: 938
+  m_MinSize: {x: 681, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
+  vertical: 0
+  controlID: 57
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 10}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 951
+    height: 938
+  m_MinSize: {x: 404, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
+  vertical: 1
+  controlID: 58
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 8}
+  - {fileID: 9}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 951
+    height: 654
+  m_MinSize: {x: 404, y: 221}
+  m_MaxSize: {x: 8004, y: 4021}
+  vertical: 0
+  controlID: 59
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 300
+    height: 654
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 300
+    y: 0
+    width: 651
+    height: 654
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 18}
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 654
+    width: 951
+    height: 284
+  m_MinSize: {x: 232, y: 271}
+  m_MaxSize: {x: 10002, y: 10021}
+  m_ActualView: {fileID: 20}
+  m_Panes:
+  - {fileID: 20}
+  - {fileID: 13}
+  - {fileID: 21}
+  m_Selected: 0
+  m_LastSelected: 2
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 951
+    y: 0
+    width: 324
+    height: 938
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 14}
+  - {fileID: 15}
+  - {fileID: 12}
+  m_Selected: 1
+  m_LastSelected: 2
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12157, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Services [Staging]
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2782
+    y: 184
+    width: 322
+    height: 917
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/staging/cloud/build
+  m_GlobalObjectTypeName: 
+  m_RegisteredViewURLs:
+  - https://public-cdn.cloud.unity3d.com/editor/staging/cloud/hub
+  - https://public-cdn.cloud.unity3d.com/editor/staging/cloud/analytics
+  - https://public-cdn.cloud.unity3d.com/editor/staging/cloud/build
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  - https://public-cdn.cloud.unity3d.com/editor/staging/cloud/collab
+  m_RegisteredViewInstances:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 650ea1d167b834d0f86d94e1e8c3b80f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 700, y: 250}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Packages
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1853
+    y: 915
+    width: 1049
+    height: 253
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2881
+    y: 279
+    width: 356
+    height: 880
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TestTypeToolbarIndex: 0
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 14}
+    newResultList:
+    - id: '[CloudBuildTestProject][suite]'
+      name: CloudBuildTestProject
+      fullName: CloudBuildTestProject
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: 
+    m_ResultText: 
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 4600739a5b091b9d66cb37b1848e30d2aa6feaea7bcfb806cb801609e98e830a9c3baf0db1b1e711d8f334162512c71f0a6b1f2ef6cad83d69170c41c8fc78456204145ed80cd864b709f06897640c70ffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 14}
+    newResultList:
+    - id: '[AddressablesDemo][suite]'
+      name: AddressablesDemo
+      fullName: AddressablesDemo
+      resultStatus: 2
+      duration: 6.654531
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: 
+    - id: '[/Users/rachelg/AddressablesDemo/AddressablesDemo/Library/ScriptAssemblies/Unity.Addressables.Editor.Tests.dll][suite]'
+      name: Unity.Addressables.Editor.Tests.dll
+      fullName: /Users/rachelg/AddressablesDemo/AddressablesDemo/Library/ScriptAssemblies/Unity.Addressables.Editor.Tests.dll
+      resultStatus: 1
+      duration: 4.2963
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[AddressablesDemo][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][ContentCatalogTests][suite]'
+      name: ContentCatalogTests
+      fullName: ContentCatalogTests
+      resultStatus: 1
+      duration: 0.221524
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[/Users/rachelg/Downloads/AddressableAssetSystem_Demo 32 4/Library/ScriptAssemblies/Unity.Addressables.Editor.Tests.dll][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][ContentCatalogTests.VerifySerialization]'
+      name: VerifySerialization
+      fullName: ContentCatalogTests.VerifySerialization
+      resultStatus: 1
+      duration: 0.210889
+      messages: 
+      output: 'Create: 67.823ms, Load: 23.346ms
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][ContentCatalogTests][suite]'
+    - id: '[UnityEditor][suite]'
+      name: UnityEditor
+      fullName: UnityEditor
+      resultStatus: 2
+      duration: 2.260701
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[/Users/rachelg/Downloads/AddressableAssetSystem_Demo 32 4/Library/ScriptAssemblies/Unity.Addressables.Editor.Tests.dll][suite]'
+    - id: '[UnityEditor.AddressableAssets][suite]'
+      name: AddressableAssets
+      fullName: UnityEditor.AddressableAssets
+      resultStatus: 1
+      duration: 3.976815
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor][suite]'
+    - id: '[UnityEditor.AddressableAssets.Tests][suite]'
+      name: Tests
+      fullName: UnityEditor.AddressableAssets.Tests
+      resultStatus: 1
+      duration: 3.967709
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.AddressableAssets][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests][suite]'
+      name: AddressableAssetSettingsTests
+      fullName: UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests
+      resultStatus: 1
+      duration: 1.290076
+      messages: 
+      output: 'Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr/package.json.meta''.
+        errno: 13
+
+        Creating Addressables settings object: Assets/AddressableAssetsData_AddressableAssetSettingsTests/AddressableAssetSettings.Tests.asset
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.AddressableAssets.Tests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.AddRemoveGroup]'
+      name: AddRemoveGroup
+      fullName: UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.AddRemoveGroup
+      resultStatus: 1
+      duration: 0.000892
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.AddRemovelabel]'
+      name: AddRemovelabel
+      fullName: UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.AddRemovelabel
+      resultStatus: 1
+      duration: 0.001579
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.CreateNewEntry]'
+      name: CreateNewEntry
+      fullName: UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.CreateNewEntry
+      resultStatus: 1
+      duration: 0.001151
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.FindAssetEntry]'
+      name: FindAssetEntry
+      fullName: UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.FindAssetEntry
+      resultStatus: 1
+      duration: 0.000264
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.HasDefaultInitialGroups]'
+      name: HasDefaultInitialGroups
+      fullName: UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.HasDefaultInitialGroups
+      resultStatus: 1
+      duration: 0.000196
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.IsValid]'
+      name: IsValid
+      fullName: UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.IsValid
+      resultStatus: 1
+      duration: 0.000182
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.VerifylabelMask]'
+      name: VerifylabelMask
+      fullName: UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests.VerifylabelMask
+      resultStatus: 1
+      duration: 0.00094
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AddressableAssetSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AssetGroupTests][suite]'
+      name: AssetGroupTests
+      fullName: UnityEditor.AddressableAssets.Tests.AssetGroupTests
+      resultStatus: 1
+      duration: 1.309638
+      messages: 
+      output: 'Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr/package.json.meta''.
+        errno: 13
+
+        Creating Addressables settings object: Assets/AddressableAssetsData_AddressableAssetSettingsTests/AddressableAssetSettings.Tests.asset
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.AddressableAssets.Tests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AssetGroupTests.AddRemoveEntry]'
+      name: AddRemoveEntry
+      fullName: UnityEditor.AddressableAssets.Tests.AssetGroupTests.AddRemoveEntry
+      resultStatus: 1
+      duration: 0.000407
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.AssetGroupTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.KeyDataStoreTests][suite]'
+      name: KeyDataStoreTests
+      fullName: UnityEditor.AddressableAssets.Tests.KeyDataStoreTests
+      resultStatus: 1
+      duration: 0.066978
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.AddressableAssets.Tests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.KeyDataStoreTests.SerializeComplexType]'
+      name: SerializeComplexType
+      fullName: UnityEditor.AddressableAssets.Tests.KeyDataStoreTests.SerializeComplexType
+      resultStatus: 1
+      duration: 0.003569
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.KeyDataStoreTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.KeyDataStoreTests.SerializePODType]'
+      name: SerializePODType
+      fullName: UnityEditor.AddressableAssets.Tests.KeyDataStoreTests.SerializePODType
+      resultStatus: 1
+      duration: 0.008486
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.KeyDataStoreTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests][suite]'
+      name: ProfileSettingsTests
+      fullName: UnityEditor.AddressableAssets.Tests.ProfileSettingsTests
+      resultStatus: 1
+      duration: 1.286077
+      messages: 
+      output: 'Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind/package.json.meta''.
+        errno: 13
+
+        Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr/package.json.meta''.
+        errno: 13
+
+        Creating Addressables settings object: Assets/AddressableAssetsData_AddressableAssetSettingsTests/AddressableAssetSettings.Tests.asset
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.AddressableAssets.Tests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.AddRemoveProfile]'
+      name: AddRemoveProfile
+      fullName: UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.AddRemoveProfile
+      resultStatus: 1
+      duration: 0.003199
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.CanGetValueById]'
+      name: CanGetValueById
+      fullName: UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.CanGetValueById
+      resultStatus: 1
+      duration: 0.000843
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.CreateValuePropogtesValue]'
+      name: CreateValuePropogtesValue
+      fullName: UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.CreateValuePropogtesValue
+      resultStatus: 1
+      duration: 0.000398
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.EvaluatingUnknownIdReturnsIdAsResult]'
+      name: EvaluatingUnknownIdReturnsIdAsResult
+      fullName: UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.EvaluatingUnknownIdReturnsIdAsResult
+      resultStatus: 1
+      duration: 0.000531
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.MissingVariablesArePassThrough]'
+      name: MissingVariablesArePassThrough
+      fullName: UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.MissingVariablesArePassThrough
+      resultStatus: 1
+      duration: 0.000254
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests][suite]'
+    - id: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.SetValueOnlySetsDesiredProfile]'
+      name: SetValueOnlySetsDesiredProfile
+      fullName: UnityEditor.AddressableAssets.Tests.ProfileSettingsTests.SetValueOnlySetsDesiredProfile
+      resultStatus: 1
+      duration: 0.00054
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.Addressables.Editor.Tests][UnityEditor.AddressableAssets.Tests.ProfileSettingsTests][suite]'
+    - id: '[/Users/rachelg/AddressablesDemo/AddressablesDemo/Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.Editor.Tests.dll][suite]'
+      name: Unity.ScriptableBuildPipeline.Editor.Tests.dll
+      fullName: /Users/rachelg/AddressablesDemo/AddressablesDemo/Library/ScriptAssemblies/Unity.ScriptableBuildPipeline.Editor.Tests.dll
+      resultStatus: 2
+      duration: 2.347124
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[AddressablesDemo][suite]'
+    - id: '[UnityEditor][suite]'
+      name: UnityEditor
+      fullName: UnityEditor
+      resultStatus: 2
+      duration: 2.260701
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[/Users/rachelg/Downloads/AddressableAssetSystem_Demo 32 4/Library/ScriptAssemblies/Unity.Addressables.Editor.Tests.dll][suite]'
+    - id: '[UnityEditor.Build][suite]'
+      name: Build
+      fullName: UnityEditor.Build
+      resultStatus: 2
+      duration: 2.165733
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor][suite]'
+    - id: '[UnityEditor.Build.Pipeline][suite]'
+      name: Pipeline
+      fullName: UnityEditor.Build.Pipeline
+      resultStatus: 2
+      duration: 2.065681
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.Build][suite]'
+    - id: '[UnityEditor.Build.Pipeline.Tests][suite]'
+      name: Tests
+      fullName: UnityEditor.Build.Pipeline.Tests
+      resultStatus: 2
+      duration: 1.966019
+      messages: One or more child tests had errors
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.Build.Pipeline][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ContextInjectionTests][suite]'
+      name: ContextInjectionTests
+      fullName: UnityEditor.Build.Pipeline.Tests.ContextInjectionTests
+      resultStatus: 1
+      duration: 0.106262
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.Build.Pipeline.Tests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ContextInjectionTests.CanInjectAndExtractWithClasses]'
+      name: CanInjectAndExtractWithClasses
+      fullName: UnityEditor.Build.Pipeline.Tests.ContextInjectionTests.CanInjectAndExtractWithClasses
+      resultStatus: 1
+      duration: 0.003081
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ContextInjectionTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ContextInjectionTests.CanInjectAndExtractWithStructs]'
+      name: CanInjectAndExtractWithStructs
+      fullName: UnityEditor.Build.Pipeline.Tests.ContextInjectionTests.CanInjectAndExtractWithStructs
+      resultStatus: 1
+      duration: 0.000648
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ContextInjectionTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ContextInjectionTests.CanInjectIBuildContextAsInOnly]'
+      name: CanInjectIBuildContextAsInOnly
+      fullName: UnityEditor.Build.Pipeline.Tests.ContextInjectionTests.CanInjectIBuildContextAsInOnly
+      resultStatus: 1
+      duration: 0.001905
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ContextInjectionTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.FileCompressorTests][suite]'
+      name: FileCompressorTests
+      fullName: UnityEditor.Build.Pipeline.Tests.FileCompressorTests
+      resultStatus: 2
+      duration: 0.107182
+      messages: 'System.ArgumentException : Path is empty'
+      output: 
+      stacktrace: "  at System.IO.Directory.CreateDirectory (System.String path) [0x0001c]
+        in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.IO/Directory.cs:78
+        \n  at UnityEditor.Build.Pipeline.Tests.FileCompressorTests.OneTimeSetUp ()
+        [0x0002a] in /Users/rachelg/Library/Unity/cache/packages/staging-packages.unity.com/com.unity.scriptablebuildpipeline@0.2.0-preview/Tests/Editor/FileCompressorTests.cs:26
+        \n  at (wrapper managed-to-native) System.Reflection.MonoMethod:InternalInvoke
+        (object,object[],System.Exception&)\n  at System.Reflection.MonoMethod.Invoke
+        (System.Object obj, BindingFlags invokeAttr, System.Reflection.Binder binder,
+        System.Object[] parameters, System.Globalization.CultureInfo culture) [0x000d0]
+        in /Users/builduser/buildslave/mono/build/mcs/class/corlib/System.Reflection/MonoMethod.cs:222 "
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.Build.Pipeline.Tests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.FileCompressorTests.CompressAndDecompressCanHandleSubdirectories]'
+      name: CompressAndDecompressCanHandleSubdirectories
+      fullName: UnityEditor.Build.Pipeline.Tests.FileCompressorTests.CompressAndDecompressCanHandleSubdirectories
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Path is empty'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.FileCompressorTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.FileCompressorTests.TrailingSlashDoesNotChangeResults]'
+      name: TrailingSlashDoesNotChangeResults
+      fullName: UnityEditor.Build.Pipeline.Tests.FileCompressorTests.TrailingSlashDoesNotChangeResults
+      resultStatus: 2
+      duration: 0
+      messages: 'OneTimeSetUp: System.ArgumentException : Path is empty'
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.FileCompressorTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests][suite]'
+      name: HashingMethodsTests
+      fullName: UnityEditor.Build.Pipeline.Tests.HashingMethodsTests
+      resultStatus: 1
+      duration: 0.116467
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.Build.Pipeline.Tests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.CalculateStreamCanUseOffsets]'
+      name: CalculateStreamCanUseOffsets
+      fullName: UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.CalculateStreamCanUseOffsets
+      resultStatus: 1
+      duration: 0.016168
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.CSharpMD4GeneratesCppMD4IdenticalFileIDs]'
+      name: CSharpMD4GeneratesCppMD4IdenticalFileIDs
+      fullName: UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.CSharpMD4GeneratesCppMD4IdenticalFileIDs
+      resultStatus: 1
+      duration: 0.004401
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.CSharpMD4GeneratesCppMD4IdenticalFileNames]'
+      name: CSharpMD4GeneratesCppMD4IdenticalFileNames
+      fullName: UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.CSharpMD4GeneratesCppMD4IdenticalFileNames
+      resultStatus: 1
+      duration: 0.000696
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.HashingMethodsCanConsumeArrays]'
+      name: HashingMethodsCanConsumeArrays
+      fullName: UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.HashingMethodsCanConsumeArrays
+      resultStatus: 1
+      duration: 0.000293
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.HashingMethodsCanConsumeDictionaries]'
+      name: HashingMethodsCanConsumeDictionaries
+      fullName: UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.HashingMethodsCanConsumeDictionaries
+      resultStatus: 1
+      duration: 0.001759
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.HashingMethodsCanConsumeHashSet]'
+      name: HashingMethodsCanConsumeHashSet
+      fullName: UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.HashingMethodsCanConsumeHashSet
+      resultStatus: 1
+      duration: 0.000722
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.HashingMethodsCanConsumeLists]'
+      name: HashingMethodsCanConsumeLists
+      fullName: UnityEditor.Build.Pipeline.Tests.HashingMethodsTests.HashingMethodsCanConsumeLists
+      resultStatus: 1
+      duration: 0.000384
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.HashingMethodsTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+      name: ScriptableBuildPipelineTests
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests
+      resultStatus: 1
+      duration: 1.534889
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentID: '[UnityEditor.Build.Pipeline.Tests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.BuildPipeline_AssetBundleBuild_DoesNotResetUnsavedScene]'
+      name: BuildPipeline_AssetBundleBuild_DoesNotResetUnsavedScene
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.BuildPipeline_AssetBundleBuild_DoesNotResetUnsavedScene
+      resultStatus: 1
+      duration: 0.564625
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_AppendBundleHash]'
+      name: DefaultBuildTasks_AppendBundleHash
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_AppendBundleHash
+      resultStatus: 1
+      duration: 0.008268
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_GenerateBundleCommands]'
+      name: DefaultBuildTasks_GenerateBundleCommands
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_GenerateBundleCommands
+      resultStatus: 1
+      duration: 0.021961
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_GenerateBundleMaps]'
+      name: DefaultBuildTasks_GenerateBundleMaps
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_GenerateBundleMaps
+      resultStatus: 1
+      duration: 0.001935
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_GenerateBundlePacking]'
+      name: DefaultBuildTasks_GenerateBundlePacking
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_GenerateBundlePacking
+      resultStatus: 1
+      duration: 0.000637
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_PostDependencyCallback]'
+      name: DefaultBuildTasks_PostDependencyCallback
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_PostDependencyCallback
+      resultStatus: 1
+      duration: 0.00177
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_PostPackingCallback]'
+      name: DefaultBuildTasks_PostPackingCallback
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_PostPackingCallback
+      resultStatus: 1
+      duration: 0.001498
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_PostScriptsCallbacks]'
+      name: DefaultBuildTasks_PostScriptsCallbacks
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_PostScriptsCallbacks
+      resultStatus: 1
+      duration: 0.001455
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_PostWritingCallback]'
+      name: DefaultBuildTasks_PostWritingCallback
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_PostWritingCallback
+      resultStatus: 1
+      duration: 0.00175
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_WriteSerialziedFiles]'
+      name: DefaultBuildTasks_WriteSerialziedFiles
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.DefaultBuildTasks_WriteSerialziedFiles
+      resultStatus: 1
+      duration: 0.004218
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    - id: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.ValidationMethods_HasDirtyScenes]'
+      name: ValidationMethods_HasDirtyScenes
+      fullName: UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests.ValidationMethods_HasDirtyScenes
+      resultStatus: 1
+      duration: 0.257516
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentID: '[Unity.ScriptableBuildPipeline.Editor.Tests][UnityEditor.Build.Pipeline.Tests.ScriptableBuildPipelineTests][suite]'
+    m_ResultText: 'ProfileSettingsTests (1.286s)
+
+      ---
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind/package.json.meta''.
+      errno: 13
+
+      Failed to change file flags for ''/Applications/Unity 2018.2.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr/package.json.meta''.
+      errno: 13
+
+      Creating Addressables settings object: Assets/AddressableAssetsData_AddressableAssetSettingsTests/AddressableAssetSettings.Tests.asset'
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 01daef22
+      m_LastClickedID: 586144257
+      m_ExpandedIDs: c470b981a0d7fca366cb37b16ab88bceeb8f3cd09f5ea6d0cc71e8dcb16f33e00a92fce8e86bc2ea83054f0d01daef228dffc92c31195738ec666353c3073f5d566d595d6e554d66ffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2782
+    y: 184
+    width: 322
+    height: 917
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1829
+    y: 184
+    width: 298
+    height: 633
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 1a77ffff08bdffff40c8ffffe6fbffff00000000d6300000183100009a330000bc330000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: LevelText
+      m_OriginalName: LevelText
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 13128
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 0
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 8}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - Main
+  m_CurrenRootInstanceID: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentSortingName: TransformSorting
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2131
+    y: 184
+    width: 647
+    height: 633
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 1
+  lastFramingTime: 5253.72815489769
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 310.45227, y: 215.50902, z: -7.8333197}
+    speed: 2
+    m_Value: {x: 310.45227, y: 215.50902, z: -7.8333197}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 0
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 1
+      speed: 2
+      m_Value: 1
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 791.75745
+    speed: 2
+    m_Value: 791.75745
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2131
+    y: 184
+    width: 647
+    height: 633
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -323.5
+    m_HBaseRangeMax: 323.5
+    m_VBaseRangeMin: -308
+    m_VBaseRangeMax: 308
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 1
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 647
+      height: 616
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 323.5, y: 308}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -323.5
+      y: -308
+      width: 647
+      height: 616
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 647, y: 633}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 2468
+    y: 148
+    width: 714
+    height: 606
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1829
+    y: 838
+    width: 949
+    height: 263
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_ScenePaths: []
+    m_ShowAllHits: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/_Complete-Game/Scenes
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/_Complete-Game/Scenes
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /Users/rachelg/CloudBuildTestProjectCollab
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 110}
+    m_SelectedIDs: 782a0000
+    m_LastClickedID: 10872
+    m_ExpandedIDs: 00000000b0290000c2290000242d000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 10}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000b0290000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 10}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_DirectoriesAreaWidth: 192
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1853
+    y: 915
+    width: 1049
+    height: 253
+  m_PersistentViewDataDictionary: {fileID: 0}
